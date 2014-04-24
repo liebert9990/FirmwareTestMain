@@ -1,0 +1,5 @@
+SimulatorPath:C:\v4_sim\NXr\NXr_v866_2.19_08-16-13_09-36-56\NXr.exe
+IPAddress:126.4.100.101
+Port:47808
+RemoteControl:true
+RemoteControlPort:47809
